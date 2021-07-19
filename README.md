@@ -1,3 +1,3 @@
 # crwn-clothing
 
-React before redux-thunk
+React project -- Clothing App
